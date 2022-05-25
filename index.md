@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ngov94/ngov94.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ngov94/ngov94.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[
+    {
+        "sugar_conc": "5.4",
+        "sugar_unit": "mmol/L",
+        "measured": "Before Breakfast",
+        "date": "2022-03-24",
+        "time": "07:03",
+        "notes": ""
+    },
+    {
+        "sugar_conc": "9.2",
+        "sugar_unit": "mmol/L",
+        "measured": "After Lunch",
+        "date": "2022-03-24",
+        "time": "13:25",
+        "notes": "Ate rice"
+    },
+    {
+        "sugar_conc": "4.5",
+        "sugar_unit": "mmol/L",
+        "measured": "Fasting",
+        "date": "2022-03-29",
+        "time": "10:00",
+        "notes": "12 hour fast"
+    },
+    {
+        "sugar_conc": "10.0",
+        "sugar_unit": "mmol/L",
+        "measured": "After Dinner",
+        "date": "2022-04-04",
+        "time": "18:50",
+        "notes": "Had cake for dessert"
+    },
+    {
+        "sugar_conc": "5.8",
+        "sugar_unit": "mmol/L",
+        "measured": "Before Lunch",
+        "date": "2022-04-05",
+        "time": "13:25",
+        "notes": ""
+    },
+    {
+        "sugar_conc": "2.0",
+        "sugar_unit": "mmol/L",
+        "measured": "Before Dinner",
+        "date": "2022-04-07",
+        "time": "18:00",
+        "notes": "Feeling dizzy"
+    },
+    {
+        "sugar_conc": "6.5",
+        "sugar_unit": "mmol/L",
+        "measured": "Before Lunch",
+        "date": "2022-04-08",
+        "time": "11:15",
+        "notes": ""
+    },
+    {
+        "sugar_conc": "7.3",
+        "sugar_unit": "mmol/L",
+        "measured": "After Breakfast",
+        "date": "2022-04-09",
+        "time": "07:45",
+        "notes": ""
+    },
+    {
+        "sugar_conc": "8.4",
+        "sugar_unit": "mmol/L",
+        "measured": "After Lunch",
+        "date": "2022-04-10",
+        "time": "13:25",
+        "notes": "Ate rice"
+    },
+    {
+        "sugar_conc": "5.0",
+        "sugar_unit": "mmol/L",
+        "measured": "Before Dinner",
+        "date": "2022-04-12",
+        "time": "17:55",
+        "notes": ""
+    }
+]
