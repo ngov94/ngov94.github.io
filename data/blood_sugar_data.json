@@ -1,7 +1,7 @@
 {
     "post":[
     {
-        "id":1
+        "id":1,
         "sugar_conc": "5.4",
         "sugar_unit": "mmol/L",
         "measured": "Before Breakfast",
@@ -10,7 +10,7 @@
         "notes": ""
     },
     {
-        "id":2
+        "id":2,
         "sugar_conc": "9.2",
         "sugar_unit": "mmol/L",
         "measured": "After Lunch",
@@ -19,7 +19,7 @@
         "notes": "Ate rice"
     },
     {
-        "id":3
+        "id":3,
         "sugar_conc": "4.5",
         "sugar_unit": "mmol/L",
         "measured": "Fasting",
@@ -28,7 +28,7 @@
         "notes": "12 hour fast"
     },
     {
-        "id":4
+        "id":4,
         "sugar_conc": "10.0",
         "sugar_unit": "mmol/L",
         "measured": "After Dinner",
@@ -37,7 +37,7 @@
         "notes": "Had cake for dessert"
     },
     {
-        "id":5
+        "id":5,
         "sugar_conc": "5.8",
         "sugar_unit": "mmol/L",
         "measured": "Before Lunch",
@@ -46,7 +46,7 @@
         "notes": ""
     },
     {
-        "id":6
+        "id":6,
         "sugar_conc": "2.0",
         "sugar_unit": "mmol/L",
         "measured": "Before Dinner",
@@ -55,7 +55,7 @@
         "notes": "Feeling dizzy"
     },
     {
-        "id":7
+        "id":7,
         "sugar_conc": "6.5",
         "sugar_unit": "mmol/L",
         "measured": "Before Lunch",
@@ -64,7 +64,7 @@
         "notes": ""
     },
     {
-        "id":8
+        "id":8,
         "sugar_conc": "7.3",
         "sugar_unit": "mmol/L",
         "measured": "After Breakfast",
@@ -73,7 +73,7 @@
         "notes": ""
     },
     {
-        "id":9
+        "id":9,
         "sugar_conc": "8.4",
         "sugar_unit": "mmol/L",
         "measured": "After Lunch",
@@ -82,7 +82,7 @@
         "notes": "Ate rice"
     },
     {
-        "id":10
+        "id":10,
         "sugar_conc": "5.0",
         "sugar_unit": "mmol/L",
         "measured": "Before Dinner",
