@@ -1,0 +1,90 @@
+{
+id: 1,
+sugar_conc: "5.4",
+sugar_unit: "mmol/L",
+measured: "Before Breakfast",
+date: "2022-03-24",
+time: "07:03",
+notes: ""
+},
+{
+id: 2,
+sugar_conc: "9.2",
+sugar_unit: "mmol/L",
+measured: "After Lunch",
+date: "2022-03-24",
+time: "13:25",
+notes: "Ate rice"
+},
+{
+id: 3,
+sugar_conc: "4.5",
+sugar_unit: "mmol/L",
+measured: "Fasting",
+date: "2022-03-29",
+time: "10:00",
+notes: "12 hour fast"
+},
+{
+id: 4,
+sugar_conc: "10.0",
+sugar_unit: "mmol/L",
+measured: "After Dinner",
+date: "2022-04-04",
+time: "18:50",
+notes: "Had cake for dessert"
+},
+{
+id: 5,
+sugar_conc: "5.8",
+sugar_unit: "mmol/L",
+measured: "Before Lunch",
+date: "2022-04-05",
+time: "13:25",
+notes: ""
+},
+{
+id: 6,
+sugar_conc: "2.0",
+sugar_unit: "mmol/L",
+measured: "Before Dinner",
+date: "2022-04-07",
+time: "18:00",
+notes: "Feeling dizzy"
+},
+{
+id: 7,
+sugar_conc: "6.5",
+sugar_unit: "mmol/L",
+measured: "Before Lunch",
+date: "2022-04-08",
+time: "11:15",
+notes: ""
+},
+{
+id: 8,
+sugar_conc: "7.3",
+sugar_unit: "mmol/L",
+measured: "After Breakfast",
+date: "2022-04-09",
+time: "07:45",
+notes: ""
+},
+{
+id: 9,
+sugar_conc: "8.4",
+sugar_unit: "mmol/L",
+measured: "After Lunch",
+date: "2022-04-10",
+time: "13:25",
+notes: "Ate rice"
+},
+{
+id: 10,
+sugar_conc: "5.0",
+sugar_unit: "mmol/L",
+measured: "Before Dinner",
+date: "2022-04-12",
+time: "17:55",
+notes: ""
+}
